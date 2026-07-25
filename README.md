@@ -98,7 +98,11 @@
 
 mm: RForest_ndut
 
-[→ 打开 GitHub 仓库](https://github.com/lby-nerd/gong-gong-ji-chu-ke_si-zheng)
+[→ 打开 GitHub 仓库](https://github.com/nduter/gong-gong-ji-chu-ke_si-zheng)
+
+<details>
+<summary>📂 目录树（点击展开）</summary>
+
 ```
 ├── 马原/
 │   ├── 历年真题/        ← 试卷 1–4（含答案）
@@ -124,8 +128,14 @@ mm: RForest_ndut
         └── 文字题重点合集.pdf
 ```
 
+</details>
+
 ### 2. 📚 公共基础课 — 工科/理科
-[→ 打开 GitHub 仓库](https://github.com/lby-nerd/gong-gong-ji-chu-ke-gong-ke-li-ke)
+[→ 打开 GitHub 仓库](https://github.com/nduter/gong-gong-ji-chu-ke-gong-ke-li-ke)
+
+<details>
+<summary>📂 目录树（点击展开）</summary>
+
 ```
 ├── 高等数学/
 │   ├── 高数上/
@@ -163,8 +173,14 @@ mm: RForest_ndut
 └── 学术英语(英语Ⅲ)/    ← 仅说明文档
 ```
 
+</details>
+
 ### 3. 🚀 空天与力学
-[→ 打开 GitHub 仓库](https://github.com/lby-nerd/ResourcesForest-kong-tian)
+[→ 打开 GitHub 仓库](https://github.com/nduter/ResourcesForest-kong-tian)
+
+<details>
+<summary>📂 目录树（点击展开）</summary>
+
 ```
 ├── 材料力学/
 │   ├── 历年真题/        ← 2007–2023，66 个文件（含 A/B 卷及评分标准）
@@ -184,8 +200,14 @@ mm: RForest_ndut
     └── 课件资料/        ← 第 2–5 章自测题及答案
 ```
 
+</details>
+
 ### 4. 🧠 智能科学
-[→ 打开 GitHub 仓库](https://github.com/lby-nerd/RForest-zhi-neng-ke-xue)
+[→ 打开 GitHub 仓库](https://github.com/nduter/RForest-zhi-neng-ke-xue)
+
+<details>
+<summary>📂 目录树（点击展开）</summary>
+
 ```
 ├── 信号与系统/
 │   ├── 历年真题/        ← 2010–2024（含期中）
@@ -203,16 +225,28 @@ mm: RForest_ndut
     └── 课件资料/        ← 绪论、微机系统、微处理器
 ```
 
+</details>
+
 ### 5. 🔬 理学院
-[→ 打开 GitHub 仓库](https://github.com/lby-nerd/RForest-li-xue-yuan)
+[→ 打开 GitHub 仓库](https://github.com/nduter/RForest-li-xue-yuan)
+
+<details>
+<summary>📂 目录树（点击展开）</summary>
+
 ```
 └── 数学物理方法基础/
     ├── 历年真题/        ← 2021–2022（A/B 卷）
     └── 课件资料/        ← 第四版教材答案
 ```
 
+</details>
+
 ### 6. 🏆 学科竞赛
 [→ 打开 GitHub 仓库](https://github.com/geekChen01/xue-ke-jing-sai) ｜ [→ 打开 Gitee 仓库](https://gitee.com/OpenSourceWalker/xue-ke-jing-sai)
+
+<details>
+<summary>📂 目录树（点击展开）</summary>
+
 ```
 ├── 全国大学生数学竞赛/
 │   ├── 前人心得/        ← 待补充
@@ -235,8 +269,14 @@ mm: RForest_ndut
         └── …（句子变化、常用表达替换等）
 ```
 
+</details>
+
 ### 7. 🖥️ 计算机
 [→ 打开 GitHub 仓库](https://github.com/geekChen01/cs-resources) ｜ [→ 打开 Gitee 仓库](https://gitee.com/OpenSourceWalker/cs-resources)
+
+<details>
+<summary>📂 目录树（点击展开）</summary>
+
 ```
 ├── 人工智能-AI/
 │   ├── 真题/            ← 2023 秋模拟卷、UC Berkeley cs188 期末
@@ -273,6 +313,8 @@ mm: RForest_ndut
 │   └── 2024数据库系统课件/   ← 第 1–9 章
 └── 数据挖掘/           ← 复习提纲、期末考试题
 ```
+
+</details>
 
 ---
 
