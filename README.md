@@ -8,6 +8,16 @@
 
 各分类已拆分为独立 GitHub 仓库，按课程方向组织如下。
 
+| 分类 | GitHub | Gitee |
+|---|---|---|
+| 📚 公共基础课 — 思政 | [→ 打开](https://github.com/nduter/gong-gong-ji-chu-ke_si-zheng) | — |
+| 📚 公共基础课 — 工科/理科 | [→ 打开](https://github.com/nduter/gong-gong-ji-chu-ke-gong-ke-li-ke) | — |
+| 🚀 空天与力学 | [→ 打开](https://github.com/nduter/ResourcesForest-kong-tian) | — |
+| 🧠 智能科学 | [→ 打开](https://github.com/nduter/RForest-zhi-neng-ke-xue) | — |
+| 🔬 理学院 | [→ 打开](https://github.com/nduter/RForest-li-xue-yuan) | — |
+| 🏆 学科竞赛 | [→ 打开](https://github.com/geekChen01/xue-ke-jing-sai) | [→ 打开](https://gitee.com/OpenSourceWalker/xue-ke-jing-sai) |
+| 🖥️ 计算机 | [→ 打开](https://github.com/geekChen01/cs-resources) | [→ 打开](https://gitee.com/OpenSourceWalker/cs-resources) |
+
 ## 📊 项目状态
 
 **Gitee：**
